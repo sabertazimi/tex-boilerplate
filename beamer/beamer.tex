@@ -6,8 +6,6 @@
 
 % 导入一些用到的宏包
 \usepackage{amsmath,bm,amsfonts,amssymb,enumerate,epsfig,bbm,calc,color,ifthen,capt-of,multimedia,hyperref}
-\usepackage[super,square,comma,sort]{natbib} % for \citet and \citep
-\renewcommand{\refname}{参考文献}
 
 \usetheme{Berlin} %主题
 \usecolortheme{sustech} %主题颜色
@@ -190,10 +188,11 @@
 \end{lstlisting}
 \end{frame}
 
-\section{参考文献}
+\section*{参考文献}
 \begin{frame}{参考文献}
-\bibliographystyle{unsrt}
-\bibliography{bibs/beamer}
+  \tiny
+  \bibliographystyle{unsrt}
+  \bibliography{bibs/beamer}
 \end{frame}
 
 \begin{frame}{Thank you}
