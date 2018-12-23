@@ -6,14 +6,14 @@ Latex templates
 
 ### Basis
 
-- https://github.com/hust-latex
-- https://github.com/skinaze/HUSTPaperTemp
-- https://github.com/WisdomFusion/latex-templates
-- https://github.com/Adhumunt/NotesTeX
+- [hust-latex](https://github.com/hust-latex)
+- [HustPaperTemp](https://github.com/skinaze/HUSTPaperTemp)
+- [latex-templates](https://github.com/WisdomFusion/latex-templates)
+- [NotesTex](https://github.com/Adhumunt/NotesTeX)
 
 ### Beamer
 
-- https://github.com/WisdomFusion/latex-beamer-teamplates
+- [mtheme](https://github.com/matze/mtheme)
+- [Templates](https://github.com/WisdomFusion/latex-beamer-teamplates)
 - [Report Beamer](https://github.com/YiZhiXiaoGuLI/Latex-Beamer-Template)
 - [Hust Beamer](https://github.com/LiunxPaisley/HUST_LaTex_Beamer_Template)
-
