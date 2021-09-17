@@ -22,3 +22,5 @@ Doxyfile
 gdbinit
 LICENSE
 Makefile
+
+.yarn/
